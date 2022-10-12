@@ -3,3 +3,62 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  color: red;
+  text-align: center;
+}
+figure{
+  margin: auto;
+  text-align: center;
+  font-size: smaller;
+}
+nav{
+  margin: auto;
+  text-align: center;
+  background-color: gray;
+}
+#featured-property{
+  text-align: center;
+  width: 800px;
+}
+#details{
+  display: flex;
+  
+  
+  background-color: red;
+  text-align: center;
+  justify-content: center;
+  
+ 
+}
+.Contacts{
+  float: left;
+  background-color: red;
+  text-align: center;
+  width: 25%;
+  justify-content: center;
+}
+
+.Correspondences{
+  float: left;
+  background-color: red;
+  text-align: center;
+  width: 25%;
+  align-content: center;
+}
+
+.Linkss{
+  float: left;
+  background-color: red;
+  text-align: center;
+  width: 25%;
+}
+
+.Follows{
+  float: left;
+  background-color: red;
+  text-align: center;
+  width: 25%;
+}
+
